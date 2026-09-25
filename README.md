@@ -1,2 +1,14 @@
-# thedocexpert.ae
-Institutional supply chain architecture, JAFZA customs clearance, and high-velocity commodity logistics across the UAE and GCC.
+# thedocexpert.ae — GitHub Pages
+
+Static, responsive website for `thedocexpert.ae`.
+
+## Structure
+
+```text
+thedocexpert/
+├── index.html
+├── styles.css
+├── script.js
+├── README.md
+└── assets/
+    └── logo.jpeg
